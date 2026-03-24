@@ -8,7 +8,7 @@ A Vue 3 app for Danish students learning Chinese, powered by a local LLM via [Ol
 2. **Ollama** installed and running — see https://ollama.com/download
 3. A **Qwen model** pulled locally:
    ```sh
-   ollama pull qwen3.5:4b
+   ollama pull qwen3.5:9b
    ```
    (You can change the model in `src/config.ts`)
 
