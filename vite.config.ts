@@ -7,6 +7,7 @@ import tailwindcss from '@tailwindcss/vite' // Tilføj denne import
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/xiaofan/',
   plugins: [
     vue(),
     vueDevTools(),
