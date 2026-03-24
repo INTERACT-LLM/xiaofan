@@ -3,7 +3,7 @@
 // ============================================================
 // Point this at the running Ollama instance.
 // Default: http://localhost:11434
-export const OLLAMA_BASE_URL = "https://app-xiaofan.cloud.aau.dk/"
+export const OLLAMA_BASE_URL = "https://app-xiaofan.cloud.aau.dk/11434"
 
 // Which model to use. Must be pulled in Ollama first, e.g.:
 //   ollama pull qwen2.5:7b
